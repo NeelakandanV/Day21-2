@@ -1,0 +1,30 @@
+body{
+    background-color: aliceblue;
+}
+
+.title{
+    text-align: center;
+}
+
+.HolidayCont{
+    margin: 30px;
+    border: 5px;
+}
+
+.formCont{
+    margin: 30px;
+    border: 5px;
+    background-color: rgb(252, 251, 251);
+}
+
+.tabCon{
+    margin: 30px;
+    border: 5px;
+    background-color: aquamarine;
+}
+
+
+th,td{
+    margin: 5px;
+    border: 2px solid black;
+}
